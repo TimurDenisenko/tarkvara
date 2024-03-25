@@ -40,7 +40,7 @@
 </head>
 <body onload="randomSuna()">
 <input type="button" value="Uuenda sõna" onclick="randomSuna()">
-<div id="random-syna"></div>
+<div id="random-syna"></div><br>
 <label for="kontroll">Kirjuta sõna vene keeles</label>
 <input type="text" name="kontroll" id="kontroll" onchange="kontroll()">
 <div id="vastus"></div>
