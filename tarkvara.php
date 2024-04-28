@@ -13,7 +13,7 @@
             "arenduskeskkond":"среда разработки","projektihaldus töörist":"работник по управлению проектами","kavandamine":"планирование","iteratsioon":"итерация","parandus":"исправление",
             "koskmudel":"каскадная модель","agiilne mudel":"агильная модель","spiraalne mudel":"спиральная модель","inkrementaalne mudel":"инкрементальная модель","nõudmised":"требования",
             "realiseerimine":"реализация","testimime":"тестирование","integreerimine":"интегригование","kasutamine":"использование","hooldus":"уход","eelised":"преимущества",
-            "puudusedd":"недостатки"}
+            "puudused":"недостатки"}
         function clear()
         {
             document.getElementById("kontroll").style.color = "black"
